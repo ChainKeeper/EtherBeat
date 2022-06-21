@@ -13,7 +13,7 @@ idna==2.5
 isort==4.2.15
 lazy-object-proxy==1.3.1
 mccabe==0.6.1
-numpy==1.13.0
+numpy==1.22.0
 pylint==1.7.2
 pylru==1.0.9
 pysha3==1.0.2
